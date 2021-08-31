@@ -1,0 +1,10 @@
+echo "# Game" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/The15thjob/Game.git
+git push -u origin main
+<h1> Hi, I am Amit Yadav </h1>
+<p> I am an <b>Artist,Graphic designer, Illustrator, Writer, Photographer.</b></p>
+<a href="https://www.behance.net/yadavamit" target="_blank" title="let's see creativity">Click to see creativity!</a>
